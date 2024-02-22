@@ -2,4 +2,7 @@
 
 ## ENUNCIADO
 
-## NOTAS TRABAJO
+## Puntos Principales
+
+## Observaciones
+
