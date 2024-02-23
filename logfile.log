@@ -42,3 +42,35 @@ INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42
 INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
 [2024-02-23 11:32:02] [ ERROR] [OdontologoDaoH2:53] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
 INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:58:15] [ ERROR] [OdontologoDaoH2:48] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-214]
+[2024-02-23 11:58:15] [ ERROR] [OdontologoDaoH2:53] Valor Invalido "2" para el parametro "columnIndex"
+Invalid value "2" for parameter "columnIndex" [90008-214]
+[2024-02-23 12:00:32] [ ERROR] [OdontologoDaoH2:48] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-214]
+[2024-02-23 12:00:32] [ ERROR] [OdontologoDaoH2:53] Columna "NUMEROMATRICULA" no encontrada
+Column "NUMEROMATRICULA" not found [42122-214]
+[2024-02-23 12:06:00] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 12:06:00] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 12:06:54] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 12:06:54] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 12:13:34] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 12:13:34] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 12:21:12] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 12:21:12] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]

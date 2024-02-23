@@ -19,7 +19,7 @@ public class OdontologoDaoMemoria implements IDao<Odontologo>{
     public Odontologo registrar(Odontologo odontologo) {
 
         int idCreado = odontologoRepository.size() + 1;
-        Odontologo nuevoOdontologo = new Odontologo(idCreado, odontologo.getNumeroMatricula(), odontologo.getNombre(), odontologo.getApellido());
+        Odontologo nuevoOdontologo = new Odontologo(idCreado, odontologo.getMatricula(), odontologo.getNombre(), odontologo.getApellido());
 
         odontologoRepository.add(odontologo);
         LOGGER.info("Odontologo guardado: " + nuevoOdontologo);
