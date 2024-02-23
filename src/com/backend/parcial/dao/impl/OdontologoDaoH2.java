@@ -42,7 +42,6 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             }
 
             LOGGER.info("Odontologo: " + odontologoObtenido);
-            //connection.setAutoCommit(true);
 
         } catch (Exception e) {
             LOGGER.error(e.getMessage());
