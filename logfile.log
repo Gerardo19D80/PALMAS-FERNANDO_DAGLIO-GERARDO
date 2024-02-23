@@ -74,3 +74,80 @@ INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-21
 [2024-02-23 12:21:12] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
 Column "MATRICULA" not found; SQL statement:
 INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:18:26] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:18:26] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:26:54] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:26:54] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:35:59] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:35:59] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:45:27] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:45:27] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:46:30] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:46:30] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:51:16] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:51:16] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:58:45] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 15:58:45] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 16:00:39] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 16:00:39] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 16:05:30] [ ERROR] [OdontologoDaoH2:48] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 16:05:30] [ ERROR] [OdontologoDaoH2:53] Columna "MATRICULA" no encontrada
+Column "MATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42122-214]
+[2024-02-23 16:06:43] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=1, matricula=1000, nombre='Fernando', apellido='Palmas'}
+[2024-02-23 16:12:26] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=2, matricula=1001, nombre='Gerardo', apellido='Daglio'}
+[2024-02-23 16:18:15] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=3, matricula=956, nombre='Fernando', apellido='Palmas'}
+[2024-02-23 16:18:15] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=4, matricula=957, nombre='Gerardo', apellido='Daglio'}
+[2024-02-23 16:18:15] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=5, matricula=958, nombre='Elton', apellido='Armelini'}
+[2024-02-23 16:18:15] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=6, matricula=959, nombre='Michael', apellido='Barboza'}
+[2024-02-23 16:18:15] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=7, matricula=1000, nombre='Moro', apellido='Hernandez'}
+[2024-02-23 16:20:22] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=8, matricula=956, nombre='Fernando', apellido='Palmas'}
+[2024-02-23 16:20:22] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=9, matricula=957, nombre='Gerardo', apellido='Daglio'}
+[2024-02-23 16:20:22] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=10, matricula=958, nombre='Elton', apellido='Armelini'}
+[2024-02-23 16:20:22] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=11, matricula=959, nombre='Michael', apellido='Barboza'}
+[2024-02-23 16:20:22] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=12, matricula=1000, nombre='Moro', apellido='Hernandez'}
+[2024-02-23 16:20:44] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=13, matricula=956, nombre='Fernando', apellido='Palmas'}
+[2024-02-23 16:20:44] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=14, matricula=957, nombre='Gerardo', apellido='Daglio'}
+[2024-02-23 16:20:44] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=15, matricula=958, nombre='Elton', apellido='Armelini'}
+[2024-02-23 16:20:44] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=16, matricula=959, nombre='Michael', apellido='Barboza'}
+[2024-02-23 16:20:44] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=17, matricula=1000, nombre='Moro', apellido='Hernandez'}
+[2024-02-23 16:24:51] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=18, matricula=956, nombre='Fernando', apellido='Palmas'}
+[2024-02-23 16:24:51] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=19, matricula=957, nombre='Gerardo', apellido='Daglio'}
+[2024-02-23 16:24:51] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=20, matricula=958, nombre='Elton', apellido='Armelini'}
+[2024-02-23 16:24:51] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=21, matricula=959, nombre='Michael', apellido='Barboza'}
+[2024-02-23 16:24:51] [ INFO ] [OdontologoDaoH2:44] Odontologo: Odontologo{id=22, matricula=1000, nombre='Moro', apellido='Hernandez'}
+[2024-02-23 16:24:51] [ INFO ] [OdontologoServiceTest:52] El ID del odontólogo obtenido es: 18

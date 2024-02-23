@@ -56,7 +56,8 @@ public class Odontologo {
 
     @Override
     public String toString() {
-        return "\nid= " + id +
+        return "Odontologo{" +
+                "id=" + id +
                 ", matricula=" + matricula +
                 ", nombre='" + nombre + '\'' +
                 ", apellido='" + apellido + '\'' +

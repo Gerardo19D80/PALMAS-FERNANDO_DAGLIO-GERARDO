@@ -11,7 +11,7 @@ import java.util.List;
 
 public class OdontologoDaoH2 implements IDao<Odontologo> {
 
-    private final Logger LOGGER = Logger.getLogger(OdontologoDaoH2.class);
+    private static final Logger LOGGER = Logger.getLogger(OdontologoDaoH2.class);
 
     @Override
     public Odontologo registrar(Odontologo odontologo) {
@@ -82,7 +82,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
         ResultSet resultSet = preparedStatement.executeQuery();
 
         while(resultSet.next()){
-            Odontologo odontologo = new Odontologo(resultSet.getInt(1), resultSet.getInt("MATRICULA"), resultSet.getString("NOMBRE"), resultSet.getString("APELLIDO"));
+            Odontologo odontologo = new Odontologo(resultSet.getInt(1), resultSet.getInt(2), resultSet.getString(3), resultSet.getString(4));
             odontologos.add(odontologo);
         }
 
