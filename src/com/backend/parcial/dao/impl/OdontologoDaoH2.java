@@ -16,6 +16,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
     @Override
     public Odontologo registrar(Odontologo odontologo) {
 
+        String insert = "INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?)";
         Connection connection = null;
         Odontologo odontologoObtenido = null;
 
@@ -24,7 +25,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             connection = H2Connection.getConnection();
             connection.setAutoCommit(false);
 
-            PreparedStatement preparedStatement = connection.prepareStatement("INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?)", Statement.RETURN_GENERATED_KEYS);
+            PreparedStatement preparedStatement = connection.prepareStatement(insert, Statement.RETURN_GENERATED_KEYS);
 
             preparedStatement.setInt(1, odontologo.getNumeroMatricula());
             preparedStatement.setString(2, odontologo.getNombre());
@@ -81,9 +82,11 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
         ResultSet resultSet = preparedStatement.executeQuery();
 
         while(resultSet.next()){
-            Odontologo odontologo = resultSet;
+            Odontologo odontologo = new Odontologo(resultSet.getInt(1), resultSet.getInt(2), resultSet.getString(3), resultSet.getString(4));
             odontologos.add(odontologo);
         }
+
+        LOGGER.info("Listado de odontologos: " + odontologos);
 
     } catch (Exception e) {
         LOGGER.error(e.getMessage());
@@ -95,7 +98,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             ex.printStackTrace();
         }
     }
-
-        return null;
+        return odontologos;
     }
+
 }

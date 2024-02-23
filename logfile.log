@@ -1,0 +1,44 @@
+[2024-02-23 10:26:15] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-214]
+[2024-02-23 10:31:53] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-214]
+[2024-02-23 10:45:07] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-214]
+[2024-02-23 10:50:27] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-214]
+[2024-02-23 11:04:38] [ ERROR] [OdontologoDaoH2:47] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:04:38] [ ERROR] [OdontologoDaoH2:52] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:05:57] [ ERROR] [OdontologoDaoH2:47] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:05:57] [ ERROR] [OdontologoDaoH2:52] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:12:32] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:12:32] [ ERROR] [OdontologoDaoH2:53] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:53] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:53] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:53] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:53] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:26:58] [ ERROR] [OdontologoDaoH2:53] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:32:02] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]
+[2024-02-23 11:32:02] [ ERROR] [OdontologoDaoH2:53] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMEROMATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-214]

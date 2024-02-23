@@ -8,7 +8,7 @@ public class H2Connection {
 
     public static Connection getConnection() throws SQLException, ClassNotFoundException {
         Class.forName("org.h2.Driver");
-        return DriverManager.getConnection("jdbc:h2:~/examen010", "user1", "pass1");
+        return DriverManager.getConnection("jdbc:h2:~/palmasdaglio", "user1", "pass1");
 
     }
 }
